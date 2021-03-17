@@ -16,5 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## UI of the Application
-  <img src="https://github.com/SahilHemnani777/ShanksVilla/blob/main/app/src/main/res/drawable/logo_new.png" alt="EShopee: Flutter eCommerce App" width="150" height="150"/>
-
+  <img src="https://github.com/SahilHemnani777/chat_bot/blob/master/1.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/>  <img src="https://github.com/SahilHemnani777/chat_bot/blob/master/2.jpeg" alt="EShopee: Flutter eCommerce App" width="300" height="600"/>
